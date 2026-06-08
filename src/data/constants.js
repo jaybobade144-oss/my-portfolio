@@ -116,7 +116,7 @@ export const education = [
   {
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Shivaji_Univesity_Logo.jpeg/500px-Shivaji_Univesity_Logo.jpeg",
-    school: "Shivaj University",
+    school: "Shivaji University",
     date: "Jun 2022 - Jun 2025",
     grade: "75%",
     degree: "Bachelor of Computer Applications",
