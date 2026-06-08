@@ -10,7 +10,7 @@ export const Bio = {
     "Java Full Stack Developer with training at The Kiran Academy. Skilled in Core Java, Spring Boot, Hibernate, REST APIs, MySQL, Spring Security, JWT, Git, and Maven. Passionate about building scalable applications and continuously learning new technologies. Seeking a Java Developer opportunity in Pune. Immediate joiner.",
     github: "https://github.com/jaybobade144-oss",
   resume:
-    "https://drive.google.com/file/d/1qsnncklLwq9r97NV09ATd2RqCB2KrqcE/view?usp=sharing",
+    "https://drive.google.com/file/d/1M517dHbi7xUOgfM5_hqYXYa4At37UXVU/view?usp=sharing",
 
 };
 
