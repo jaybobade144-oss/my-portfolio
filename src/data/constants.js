@@ -152,6 +152,25 @@ export const projects = [
     github: "https://github.com/jaybobade144-oss",
     webapp: "https://drive.google.com/file/d/1-fKK3lteP_PVuE7tTdP1IE_zInjJKx7e/view?usp=sharing",
   },
+  {
+    id: 1,
+    title: "Expense Tracker System",
+    description:
+      "Developed a full-stack Expense Tracker application using Spring Boot, React.js, and MySQL for managing personal expenses. Built REST APIs for user authentication and expense CRUD operations following Controller → Service → Repository architecture. Implemented expense categorization, search/filter functionality, and monthly/yearly reports with interactive charts. Integrated Hibernate with MySQL, configured global exception handling using @ControllerAdvice, and tested APIs using Postman.",
+    image: "/exp.png",
+    tags: [
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "MySQL",
+      "Hibernate",
+      "Spring Data JPA",
+      "REST APIs",
+      "Postman",
+    ],
+    category: "web app",
+    code: "https://github.com/jaybobade144-oss/expense-tracker-app",
+  },
 ];
 
 export const TimeLineData = [
