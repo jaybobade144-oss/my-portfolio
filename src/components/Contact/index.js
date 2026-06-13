@@ -144,7 +144,7 @@ const Contact = () => {
     <Container>
       <Wrapper>
         <Title>Contact Details</Title>
-        <Desc>Email  :- jaybobade144 @gmail.com</Desc>
+        <Desc>Email  :- jaybobade144@gmail.com</Desc>
         <Desc>Phone no :- 9106695745 </Desc>
       </Wrapper>
     </Container>
